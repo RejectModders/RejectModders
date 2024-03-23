@@ -11,6 +11,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NoBody-UU&label=Profile%20views&color=0e75b6&style=flat" alt="mid-rip" /> </p>
 
 <div aling="right">
+<a href="https://discord.com/users/1156172652629737532" target="_blank">
+	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/838338447932391436?bg=1f1f1f&borderRadius=5px">
+</a>
 
 </a>
 <a href="https://wakatime.com/@NoBody" target="_blank">
