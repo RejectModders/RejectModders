@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NoBody-UU&label=Profile%20views&color=0e75b6&style=flat" alt="mid-rip" /> </p>
 
 <div aling="right">
-<a href="https://discord.com/users/1156172652629737532" target="_blank">
+<a href="https://discord.com/users/418941954252996609" target="_blank">
 	<img width="50%" align="right" alt="Discord Status" src="https://api.lanyard.rest/v1/users/418941954252996609?bg=1f1f1f&borderRadius=5px">
 </a>
 
