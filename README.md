@@ -5,7 +5,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=41&pause=1000&color=5865f2&width=450&height=70&lines=Hey!+I'm+Reject!+;Welcome+To+My+GitHub)](https://git.io/typing-svg) 
 [![guns.lol](https://img.shields.io/badge/guns.lol-946ca4?style=flat&logoColor=000000)](https://guns.lol/RejectModders)
 [![⭐ GitHub](https://img.shields.io/github/stars/NoBody-UU?style=social)](https://github.com/RejectModderss)
-[![Discord Server](https://discordapp.com/api/guilds/644672989014523940/widget.png?style=shield)](https://discord.gg/nEyYXTnpEw)
+[![Discord Server](https://img.shields.io/badge/Discord%20Server-7289da?style=plastic&logoColor=000000)](https://discord.gg/nEyYXTnpEw)
 [![UniBot](https://badgen.net/badge/icon/MyBot/yellow?icon=dependabot&label)](https://dsc.gg/uni-bot)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NoBody-UU&label=Profile%20views&color=0e75b6&style=flat" alt="mid-rip" /> </p>
