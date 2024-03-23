@@ -3,9 +3,9 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="NoBody Image" src="https://images-ext-1.discordapp.net/external/KS3JwY0Nv97KAMXxWxqjnSY6eAU73im6HTo1Ow_BrbU/https/i.imgur.com/jlwmYiph.jpg">  
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=41&pause=1000&color=F7E50E&width=450&height=70&lines=Hey!+I'm+Reject!+;Welcome+To+My+GitHub)](https://git.io/typing-svg) 
-[![RataCalva](https://custom-icon-badges.demolab.com/badge/-RataCalva-yellow?style=for-the-badge&logo=heart&logoColor=red)](https://github.com/NoBody-UU)
-[![⭐ GitHub](https://img.shields.io/github/stars/NoBody-UU?style=social)](https://github.com/stars/NoBody-UU)
-[![DevServer](https://discordapp.com/api/guilds/644672989014523940/widget.png?style=shield)](https://discord.gg/FMbXwGPJGm)
+[![RataCalva](https://custom-icon-badges.demolab.com/badge/-RataCalva-yellow?style=for-the-badge&logo=heart&logoColor=red)](https://github.com/RejectModderss)
+[![⭐ GitHub](https://img.shields.io/github/stars/NoBody-UU?style=social)](https://github.com/RejectModderss)
+[![DevServer](https://discordapp.com/api/guilds/644672989014523940/widget.png?style=shield)](https://discord.gg/nEyYXTnpEw)
 [![MyBot](https://badgen.net/badge/icon/MyBot/yellow?icon=dependabot&label)](https://dsc.gg/cuchus)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NoBody-UU&label=Profile%20views&color=0e75b6&style=flat" alt="mid-rip" /> </p>
