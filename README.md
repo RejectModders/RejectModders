@@ -1,6 +1,6 @@
 
 
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="NoBody Image" src="https://images-ext-1.discordapp.net/external/KS3JwY0Nv97KAMXxWxqjnSY6eAU73im6HTo1Ow_BrbU/https/i.imgur.com/jlwmYiph.jpg">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="NoBody Image" src="https://images.uni-bot.xyz/RejectModders/rejectmodders.gif">  
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=41&pause=1000&color=F7E50E&width=450&height=70&lines=Hey!+I'm+Reject!+;Welcome+To+My+GitHub)](https://git.io/typing-svg) 
 [![guns.lol](https://img.shields.io/badge/guns.lol-946ca4?style=flat&logoColor=000000)](https://guns.lol/RejectModders)
