@@ -6,7 +6,7 @@
 [![guns.lol](https://img.shields.io/badge/guns.lol-946ca4?style=flat&logoColor=000000)](https://guns.lol/RejectModders)
 [![⭐ GitHub](https://img.shields.io/github/stars/NoBody-UU?style=social)](https://github.com/RejectModderss)
 [![Discord Server](https://img.shields.io/badge/Discord%20Server-7289da?style=plastic&logoColor=000000)](https://discord.gg/nEyYXTnpEw)
-[![UniBot](https://badgen.net/badge/icon/MyBot/yellow?icon=dependabot&label)](https://dsc.gg/uni-bot)
+[![UniBot](https://img.shields.io/badge/UniBot-5865f2?style=plastic&logo=dependabot&logoColor=000000&color=5865f2)](https://dsc.gg/uni-bot)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NoBody-UU&label=Profile%20views&color=0e75b6&style=flat" alt="mid-rip" /> </p>
 
