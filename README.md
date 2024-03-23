@@ -12,7 +12,7 @@
 
 <div aling="right">
 <a href="https://discord.com/users/1156172652629737532" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/838338447932391436?bg=1f1f1f&borderRadius=5px">
+	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1156172652629737532?bg=1f1f1f&borderRadius=5px">
 </a>
 
 </a>
