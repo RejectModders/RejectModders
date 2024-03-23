@@ -6,7 +6,7 @@
 [![RataCalva](https://custom-icon-badges.demolab.com/badge/-RataCalva-yellow?style=for-the-badge&logo=heart&logoColor=red)](https://github.com/RejectModderss)
 [![⭐ GitHub](https://img.shields.io/github/stars/NoBody-UU?style=social)](https://github.com/RejectModderss)
 [![DevServer](https://discordapp.com/api/guilds/644672989014523940/widget.png?style=shield)](https://discord.gg/nEyYXTnpEw)
-[![MyBot](https://badgen.net/badge/icon/MyBot/yellow?icon=dependabot&label)](https://dsc.gg/cuchus)
+[![MyBot](https://badgen.net/badge/icon/MyBot/yellow?icon=dependabot&label)](https://dsc.gg/uni-bot)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NoBody-UU&label=Profile%20views&color=0e75b6&style=flat" alt="mid-rip" /> </p>
 
