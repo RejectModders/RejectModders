@@ -2,7 +2,7 @@
 
 <img width="110" height="110" align="left" style="float: left; margin: 0 10px 0 0;" alt="NoBody Image" src="https://images.uni-bot.xyz/RejectModders/rejectmodders.gif">  
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=41&pause=1000&color=5865f2&width=450&height=70&lines=Hey!+I'm+Reject!+;Welcome+To+My+GitHub)](https://git.io/typing-svg) 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=41&pause=1000&color=5865f2&width=450&height=70&lines=Hey!+I'm+Reject!+;Welcome+To+My+GitHub!)](https://git.io/typing-svg) 
 [![guns.lol](https://img.shields.io/badge/guns.lol-946ca4?style=plastic&logoColor=000000)](https://guns.lol/RejectModders)
 [![Discord Server](https://img.shields.io/badge/Discord%20Server-7289da?style=plastic&logoColor=000000)](https://discord.gg/nEyYXTnpEw)
 [![UniBot](https://img.shields.io/badge/UniBot-5865f2?style=plastic&logo=dependabot&logoColor=000000&color=5865f2)](https://dsc.gg/uni-bot)
