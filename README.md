@@ -15,8 +15,8 @@
 </a>
 
 </a>
-<a href="https://wakatime.com/@NoBody" target="_blank">
-	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=RejectModderss&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=NoBody%20Stasts%20🎈:">
+<a href="https://wakatime.com/@RejectModders" target="_blank">
+	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=RejectModderss&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=RejectModders%20Stasts%20🎈:">
 </a>
 </div>
 
