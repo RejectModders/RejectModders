@@ -32,18 +32,12 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+#  ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+#  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=for-the-badge&logo=adobe-photoshop)
+#  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)
+#  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+#  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=for-the-badge&logo=adobe-photoshop)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoBody-UU&title_color=FFD700&bg_color=1f1f1f&icon_color=FF0074&text_color=FFFFFF&theme=gruvbox&show_icons=true&include_all_commits=false&card_width=100" />	
-</div>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
