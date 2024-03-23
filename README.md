@@ -7,7 +7,7 @@
 [![Discord Server](https://img.shields.io/badge/Discord%20Server-7289da?style=plastic&logoColor=000000)](https://discord.gg/nEyYXTnpEw)
 [![UniBot](https://img.shields.io/badge/UniBot-5865f2?style=plastic&logo=dependabot&logoColor=000000&color=5865f2)](https://dsc.gg/uni-bot)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RejectModderss&label=Profile%20views&color=0e75b6&style=flat" alt="mid-rip" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RejectModderss&label=Profile%20views&color=0e75b6&style=plastic" alt="mid-rip" /> </p>
 
 <div aling="right">
 <a href="https://discord.com/users/418941954252996609" target="_blank">
