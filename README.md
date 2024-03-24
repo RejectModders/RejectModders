@@ -6,7 +6,6 @@
 [![guns.lol](https://img.shields.io/badge/guns.lol-946ca4?style=plastic&logoColor=000000)](https://guns.lol/RejectModders)
 [![Discord Server](https://img.shields.io/badge/Discord%20Server-7289da?style=plastic&logoColor=000000)](https://discord.gg/nEyYXTnpEw)
 [![UniBot](https://img.shields.io/badge/UniBot-5865f2?style=plastic&logo=dependabot&logoColor=000000&color=5865f2)](https://dsc.gg/uni-bot)
-[![wakatime](https://wakatime.com/badge/user/018e6913-d869-47ea-933c-7e6570929ae1.svg)](https://wakatime.com/@018e6913-d869-47ea-933c-7e6570929ae1)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RejectModderss&label=Profile%20views&color=0e75b6&style=plastic" alt="mid-rip" /> </p>
 
