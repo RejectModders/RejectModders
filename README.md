@@ -24,7 +24,7 @@
 
 - 👨‍💻 &nbsp; Discord Developer of UniBot.
 - 💬 &nbsp; I Love developing `Discords Bots` and `Websites`.
-- 🌱 &nbsp; I’m currently learning `HTML and JS`.
+- 🌱 &nbsp; I’m currently learning `C#` and `C++`.
 - 🎈 &nbsp; My own Discord Bot: https://uni-bot.xyz
 - 🤖 &nbsp; Please also check out my discord bot! I am always looking for beta testers and just a bigger community!
 <h3> 🛠 &nbsp;Tech Stack</h3>
