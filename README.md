@@ -5,7 +5,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=41&pause=1000&color=5865f2&width=450&height=70&lines=Hey!+I'm+Reject!+;Welcome+To+My+GitHub+;Join+.gg/28RuT8WsKT)](https://git.io/typing-svg) 
 [![guns.lol](https://img.shields.io/badge/guns.lol-946ca4?style=plastic&logoColor=000000)](https://guns.lol/RejectModders)
 [![Discord Server](https://img.shields.io/badge/Discord%20Server-7289da?style=plastic&logoColor=000000)](https://discord.gg/28RuT8WsKT)
-[![Our Bots](https://img.shields.io/badge/UniBot-5865f2?style=plastic&logo=dependabot&logoColor=000000&color=5865f2)](https://dsc.gg/uni-bot)
 [![Static Badge](https://img.shields.io/badge/disutils-bots?style=plastic&logo=dependabot&logoColor=1daa7e&label=Our%20Bots)](https://disutils.com/bots)
 
 
