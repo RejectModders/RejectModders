@@ -29,7 +29,7 @@
 
 ```python
 class Developer:
-    def __init__(self):
+    def __init__(self) -> None:
         self.name = "RejectModders"
         self.role = "Discord Developer & Owner of Disutils"
         self.location = "Missouri"
@@ -38,26 +38,33 @@ class Developer:
         self.projects = {
             "main": "https://disutils.com",
             "description": "A dedicated group of individuals committed to enhancing and simplifying the Discord experience for all users.",
-            "looking_for": "Beta Testers & Community Members!"
+            "looking_for": "Beta Testers & Community Members!",
         }
         self.fun_fact = "I love coding, I also love watching cop videos!"
 
-    def current_focus(self):
-        return ["Scaling Disutils", "Building Amazing Communities", "Learning New Technologies"]
+    def current_focus(self) -> list[str]:
+        return [
+            "Scaling Disutils",
+            "Building Amazing Communities",
+            "Learning New Technologies",
+        ]
 
-    def daily_routine(self):
+    def daily_routine(self) -> list[str]:
         return ["Code", "Coffee", "Community", "Repeat"]
 
-    def __str__(self):
-        return (f"Name: {self.name}\n"
-                f"Role: {self.role}\n"
-                f"Location: {self.location}\n"
-                f"Passions: {', '.join(self.passions)}\n"
-                f"Learning: {', '.join(self.learning)}\n"
-                f"Projects: {self.projects}\n"
-                f"Fun Fact: {self.fun_fact}\n"
-                f"Current Focus: {', '.join(self.current_focus())}\n"
-                f"Daily Routine: {', '.join(self.daily_routine())}")
+    def __str__(self) -> str:
+        return (
+            f"Name: {self.name}\n"
+            f"Role: {self.role}\n"
+            f"Location: {self.location}\n"
+            f"Passions: {', '.join(self.passions)}\n"
+            f"Learning: {', '.join(self.learning)}\n"
+            f"Projects: {self.projects}\n"
+            f"Fun Fact: {self.fun_fact}\n"
+            f"Current Focus: {', '.join(self.current_focus())}\n"
+            f"Daily Routine: {', '.join(self.daily_routine())}"
+        )
+
 
 reject = Developer()
 print(reject)
