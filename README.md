@@ -169,7 +169,7 @@ print(reject)
   </a>
 </div>
 
----
+##
 
 <div align="center">
   <b>Let's build the future of Discord communities together! 🚀</b>
