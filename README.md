@@ -27,20 +27,20 @@
 
 ## 🚀 Quick Overview
 
-> Discord Developer & Owner of Disutils | Building the future of Discord communities | Missouri, USA 🌟
+> Just a guy from Missouri who loves building Discord bots and hanging out with cool people online 🌟
 
 <details>
 <summary>📈 Current Projects & Milestones</summary>
 
 ### 🎯 Active Projects  
-- **Disutils Team** – A dedicated group of individuals committed to enhancing and simplifying the Discord experience for all users [GitHub](https://github.com/disutils/disutils)  
-- **Disckit** – A powerful package designed to enhance the Disutils Bot and support Discord bots built with Discord.py [GitHub](https://github.com/disutils/disckit)  
-- **Ignited Hosting** – High-performance hosting solutions for developers & communities [Website](https://ignitedhosting.com)  
+- **Disutils Team** – Some awesome people making Discord better [GitHub](https://github.com/disutils/disutils)  
+- **Disckit** – A package that makes Discord.py bot development suck less [GitHub](https://github.com/disutils/disckit)  
+- **Ignited Hosting** – Fast servers without the BS [Website](https://ignitedhosting.com)
 
 ### 🏆 Recent Achievements
-- 🚀 Bot Network Expansion: Serving 600+ Discord Communities
-- 🤖 Launched 2 successful Discord bots
-- 🌟 Achieved Top.gg Front Page Recognition
+- 🚀 My bots are now in 600+ servers (still can't believe it!)
+- 🤖 Built 2 bots that people actually use
+- 🌟 Made it to Top.gg front page (for a bit, but hey, it counts!)
 </details>
 
 ## 🧑‍💻 About Me
@@ -49,16 +49,16 @@
 class Developer:
     def __init__(self) -> None:
         self.name = "RejectModders"
-        self.role = "Discord Developer & Owner of Disutils"
+        self.role = "Discord Dev & Disutils Owner"
         self.location = "Missouri"
-        self.passions = ["Discord Bots", "Web Development", "Friends"]
+        self.passions = ["Building Discord Bots", "Gaming", "Friends"]
         self.learning = ["C#", "C++"]
         self.projects = {
             "main": "https://disutils.com",
             "description": "A dedicated group of individuals committed to enhancing and simplifying the Discord experience for all users.",
             "looking_for": "Beta Testers & Community Members!",
         }
-        self.fun_fact = "I love coding, I also love watching cop videos!"
+        self.fun_fact = "I spend way too much time watching cop videos 🚓"
 
     def technologies_and_skills(self) -> dict:
         return {
