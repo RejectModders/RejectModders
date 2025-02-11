@@ -51,7 +51,7 @@ class Developer:
         self.name = "RejectModders"
         self.role = "Discord Developer & Owner of Disutils"
         self.location = "Missouri"
-        self.passions = ["Discord Bots", "Web Development", "Community Building"]
+        self.passions = ["Discord Bots", "Web Development", "Friends"]
         self.learning = ["C#", "C++"]
         self.projects = {
             "main": "https://disutils.com",
@@ -66,7 +66,7 @@ class Developer:
             "backend": ["Python", "Node.js", "FastAPI", "Express.js"],
             "databases": ["PostgreSQL", "SQLite", "MongoDB", "MySQL"],
             "tools": ["Docker", "Git", "PyCharm", "WebStorm"],
-            "interests": ["Bot Development", "API Design", "Community Building"]
+            "interests": ["Bot Development", "API Design", "Coding"]
         }
 
     def current_focus(self) -> list[str]:
