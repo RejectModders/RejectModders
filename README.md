@@ -25,7 +25,7 @@
   </div>
 </div>
 
-## 🧙‍♂️ About Me
+## 🧑‍💻 About Me
 
 ```python
 class Developer:
