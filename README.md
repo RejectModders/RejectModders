@@ -97,18 +97,6 @@ reject = Developer()
 print(reject)
 ```
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| [Disutils Platform](https://disutils.com) | All-in-one Discord community management | 🟢 Active |
-| [Custom Bot Framework](https://github.com/RejectModders) | Scalable Discord bot development | 🟡 In Progress |
-| [Community Tools](https://github.com/RejectModders) | Resources for Discord moderators | 🟢 Active |
-
-</div>
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -134,24 +122,6 @@ print(reject)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)  
-
-</div>
-
-## 🤝 Community Impact
-
-<div align="center">
-
-### Discord Community Growth
-- 👥 10,000+ Active Members
-- 🤖 3+ Public Bots
-- 💬 24/7 Support Team
-
-### Open Source Contributions
-- 🎯 Active contributor to Discord.py ecosystem
-- 📚 Documentation improvements
-- 🛠️ Community tools development
-
-</div>
 
 ## 📊 GitHub Stats
 
