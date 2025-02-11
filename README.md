@@ -111,14 +111,8 @@ reject = Developer()
 ## 🤝 Support Me
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/" target="_blank">
+  <a href="https://www.buymeacoffee.com/disutilsteam" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-  <a href="https://paypal.me/" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
-  </a>
-  <a href="https://donate.stripe.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
   </a>
 </div>
 
