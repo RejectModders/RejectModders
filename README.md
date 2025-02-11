@@ -12,15 +12,13 @@
   
   <img src="https://komarev.com/ghpvc/?username=RejectModderss&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
-  <div style="margin: 20px 0;">
-    <a href="https://discord.com/users/418941954252996609" target="_blank">
-      <img width="70%" src="https://lanyard.cnrad.dev/api/418941954252996609?bg=1f1f1f&borderRadius=5px" alt="Discord Status">
-    </a>
-    <br><br>
-    <a href="https://wakatime.com/@RejectModders" target="_blank">
-      <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RejectModders&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Coding%20Stats%20🎈" alt="Weekly Stats">
-    </a>
-  </div>
+  <a href="https://discord.com/users/418941954252996609" target="_blank">
+    <img width="45%" src="https://lanyard.cnrad.dev/api/418941954252996609?bg=1f1f1f&borderRadius=5px" alt="Discord Status">
+  </a>
+  <br>
+  <a href="https://wakatime.com/@RejectModders" target="_blank">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RejectModders&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Coding%20Stats%20🎈" alt="Weekly Stats">
+  </a>
 </div>
 
 ## 👨🏻‍💻 About Me
