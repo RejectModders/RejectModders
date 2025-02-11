@@ -9,6 +9,8 @@
   [![guns.lol](https://img.shields.io/badge/guns.lol-946ca4?style=for-the-badge&logoColor=white)](https://guns.lol/RejectModders)
   [![Discord](https://img.shields.io/badge/Join_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/28RuT8WsKT)
   [![Bots](https://img.shields.io/badge/Our_Bots-1daa7e?style=for-the-badge&logo=robotframework&logoColor=white)](https://disutils.com/bots)
+  [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://disutils.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DisutilsBot)
   
   <img src="https://komarev.com/ghpvc/?username=RejectModderss&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
@@ -23,30 +25,56 @@
   </div>
 </div>
 
-## 👨🏻‍💻 About Me
+## 🧙‍♂️ About Me
 
 ```python
-reject = {
-    "role": "Discord Developer & Owner of Disutils",
-    "passions": ["Discord Bots", "Web Development"],
-    "learning": ["C#", "C++"],
-    "projects": {
-        "main": "https://disutils.com",
-        "looking_for": "Beta Testers & Community Members!"
-    }
-}
+class Developer:
+    def __init__(self):
+        self.name = "Reject"
+        self.role = "Discord Developer & Owner of Disutils"
+        self.location = "Digital Realm 🌐"
+        self.passions = ["Discord Bots", "Web Development", "Community Building"]
+        self.learning = ["C#", "C++", "Advanced System Architecture"]
+        self.projects = {
+            "main": "https://disutils.com",
+            "description": "Revolutionary Discord Bot Platform",
+            "active_users": "100k+",
+            "looking_for": "Beta Testers & Community Members!"
+        }
+        self.fun_fact = "I turn coffee into code ☕"
+        
+    def current_focus(self):
+        return ["Scaling Disutils", "Building Amazing Communities", "Learning New Technologies"]
+    
+    def daily_routine(self):
+        return ["Code", "Coffee", "Community", "Repeat"]
+
+reject = Developer()
 ```
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frameworks & Platforms
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -55,6 +83,35 @@ reject = {
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RejectModders&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RejectModders&layout=compact&langs_count=7&theme=dark"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RejectModders&theme=dark" alt="GitHub Streak"/>
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RejectModders&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 🎵 Discord Activity
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31nv4xvnj6gqtmsdvj24g26rd2rm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+## 🤝 Support Me
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+  <a href="https://ko-fi.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+  </a>
 </div>
 
 ---
@@ -63,4 +120,7 @@ reject = {
   <b>🎉 Let's connect and build something amazing together! 🚀</b>
   <br>
   <a href="https://disutils.com">🌐 Check out Disutils</a>
+  
+  ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)
+  [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/RejectModders)
 </div>
