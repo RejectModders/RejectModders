@@ -133,7 +133,7 @@ print(reject)
   
   <br>
   
-  <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=RejectModders&limit=5&theme=monokai&combine_all_yearly_contributions=true&order_by=contributions&hide_contributor_rank=false"/>
+  <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=RejectModders&limit=5&theme=monokai&combine_all_yearly_contributions=true&order_by=contributions&hide_contributor_rank=false&hide=stars"/>
 </div>
 
 ## 🏆 Achievements
