@@ -130,7 +130,7 @@ print(reject)
 ---
 
 <div align="center">
-  <b>🎉 Let's connect and build something amazing together! 🚀</b>
+  <b>Let's connect and build something amazing together! 💖</b>
   <br>
   <a href="https://disutils.com">🌐 Check out Disutils</a>
   
