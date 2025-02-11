@@ -32,16 +32,15 @@ class Developer:
     def __init__(self):
         self.name = "Reject"
         self.role = "Discord Developer & Owner of Disutils"
-        self.location = "Digital Realm 🌐"
+        self.location = "Missouri"
         self.passions = ["Discord Bots", "Web Development", "Community Building"]
-        self.learning = ["C#", "C++", "Advanced System Architecture"]
+        self.learning = ["C#", "C++"]
         self.projects = {
             "main": "https://disutils.com",
-            "description": "Revolutionary Discord Bot Platform",
-            "active_users": "100k+",
+            "description": "A dedicated group of individuals committed to enhancing and simplifying the Discord experience for all users.",
             "looking_for": "Beta Testers & Community Members!"
         }
-        self.fun_fact = "I turn coffee into code ☕"
+        self.fun_fact = "I love coding, I also love watching cop videos!"
         
     def current_focus(self):
         return ["Scaling Disutils", "Building Amazing Communities", "Learning New Technologies"]
