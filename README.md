@@ -10,7 +10,7 @@
   [![Discord](https://img.shields.io/badge/Join_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/28RuT8WsKT)
   [![Bots](https://img.shields.io/badge/Our_Bots-1daa7e?style=for-the-badge&logo=robotframework&logoColor=white)](https://disutils.com/bots)
   
-  <img src="https://komarev.com/ghpvc/?username=RejectModderss&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RejectModders&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 <div align="right">
@@ -53,8 +53,8 @@ const reject = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RejectModderss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RejectModderss&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RejectModders&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RejectModders&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ---
