@@ -64,7 +64,7 @@ class Developer:
         return {
             "frontend": ["HTML", "CSS", "JavaScript"],
             "backend": ["Python", "Node.js", "FastAPI", "Express.js"],
-            "databases": ["MongoDB"],
+            "databases": ["PostgreSQL", "SQLite", "MongoDB", "MySQL"],
             "tools": ["Docker", "Git", "PyCharm", "WebStorm"],
             "interests": ["Bot Development", "API Design", "Community Building"]
         }
