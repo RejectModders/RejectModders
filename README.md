@@ -1,8 +1,3 @@
-Lets make my read me a lot better for just an overall better look and improvement? I would love to see what you come up with?
-
-
-
-
 <img width="110" height="110" align="left" style="float: left; margin: 0 10px 0 0;" alt="NoBody Image" src="https://images.disutils.com/RejectModders/rejectmodders.gif">  
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=41&pause=1000&color=5865f2&width=450&height=70&lines=Hey!+I'm+Reject!+;Welcome+To+My+GitHub+;Join+.gg/28RuT8WsKT)](https://git.io/typing-svg) 
