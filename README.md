@@ -32,15 +32,15 @@
 <details>
 <summary>📈 Current Projects & Milestones</summary>
 
-### 🎯 Active Projects
-- **Disutils Platform** - Revolutionizing Discord community management
-- **Custom Bot Framework** - Building scalable solutions for Discord servers
-- **Community Tools** - Developing resources for Discord moderators
+### 🎯 Active Projects  
+- **Disutils Team** – A dedicated group of individuals committed to enhancing and simplifying the Discord experience for all users [GitHub](https://github.com/disutils/disutils)  
+- **Disckit** – A powerful package designed to enhance the Disutils Bot and support Discord bots built with Discord.py [GitHub](https://github.com/disutils/disckit)  
+- **Ignited Hosting** – High-performance hosting solutions for developers & communities [Website](https://ignitedhosting.com)  
 
 ### 🏆 Recent Achievements
-- 🎉 Reached 10,000+ Discord community members
-- 🤖 Launched 3 successful Discord bots
-- 🌟 Featured in Discord Developer spotlight
+- 🚀 Bot Network Expansion: Serving 600+ Discord Communities
+- 🤖 Launched 2 successful Discord bots
+- 🌟 Achieved Top.gg Front Page Recognition
 </details>
 
 ## 🧑‍💻 About Me
