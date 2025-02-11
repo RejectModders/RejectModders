@@ -1,43 +1,66 @@
-<img width="110" height="110" align="left" style="float: left; margin: 0 10px 0 0;" alt="NoBody Image" src="https://images.disutils.com/RejectModders/rejectmodders.gif">  
+<h1 align="center">
+  <img src="https://images.disutils.com/RejectModders/rejectmodders.gif" width="110" height="110" style="border-radius: 50%"/>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=41&pause=1000&color=5865f2&width=450&height=70&lines=Hey!+I'm+Reject!;Welcome+To+My+GitHub;Join+.gg/28RuT8WsKT" alt="Typing SVG"/>
+</h1>
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=41&pause=1000&color=5865f2&width=450&height=70&lines=Hey!+I'm+Reject!+;Welcome+To+My+GitHub+;Join+.gg/28RuT8WsKT)](https://git.io/typing-svg) 
-[![guns.lol](https://img.shields.io/badge/guns.lol-946ca4?style=plastic&logoColor=000000)](https://guns.lol/RejectModders)
-[![Discord Server](https://img.shields.io/badge/Discord%20Server-7289da?style=plastic&logoColor=000000)](https://discord.gg/28RuT8WsKT)
-[![Our Bots](https://img.shields.io/badge/-Our_Bots-1daa7e?style=plastic&logo=dependabot&logoColor=FFD700&labelColor=1daa7e&color=1daa7e)](https://disutils.com/bots)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RejectModderss&label=Profile%20views&color=0e75b6&style=plastic" alt="mid-rip" /> </p>
-
-<div aling="right">
-<a href="https://discord.com/users/418941954252996609" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/418941954252996609?bg=1f1f1f&borderRadius=5px">
-</a>
-
-</a>
-<a href="https://wakatime.com/@RejectModders" target="_blank">
-	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=RejectModders&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=RejectModders%20Stats%20🎈:">
-</a>
+<div align="center">
+  
+  [![guns.lol](https://img.shields.io/badge/guns.lol-946ca4?style=for-the-badge&logoColor=white)](https://guns.lol/RejectModders)
+  [![Discord](https://img.shields.io/badge/Join_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/28RuT8WsKT)
+  [![Bots](https://img.shields.io/badge/Our_Bots-1daa7e?style=for-the-badge&logo=robotframework&logoColor=white)](https://disutils.com/bots)
+  
+  <img src="https://komarev.com/ghpvc/?username=RejectModderss&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<div align="right">
+  <a href="https://discord.com/users/418941954252996609" target="_blank">
+    <img width="45%" src="https://lanyard.cnrad.dev/api/418941954252996609?bg=1f1f1f&borderRadius=5px" alt="Discord Status">
+  </a>
+  <br>
+  <a href="https://wakatime.com/@RejectModders" target="_blank">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RejectModders&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Coding%20Stats%20🎈" alt="Weekly Stats">
+  </a>
+</div>
 
-- 👨‍💻 &nbsp; Discord Developer, owner of Disutils.
-- 💬 &nbsp; I Love developing `Discords Bots` and `Websites`.
-- 🌱 &nbsp; I’m currently learning `C#` and `C++`.
-- 🎈 &nbsp; My own Discord Bot: https://disutils.com
-- 🤖 &nbsp; Please also check out my discord bot! I am always looking for beta testers and just a bigger community!
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## 👨🏻‍💻 About Me
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
-<!-- ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react) -->
-<!-- # ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git) -->
-<!-- # ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown) -->
-<!-- # ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC) -->
-<!-- # ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=for-the-badge&logo=adobe-photoshop) -->
+```javascript
+const reject = {
+    role: "Discord Developer & Owner of Disutils",
+    passions: ["Discord Bots", "Web Development"],
+    learning: ["C#", "C++"],
+    projects: {
+        main: "https://disutils.com",
+        looking_for: "Beta Testers & Community Members!"
+    }
+};
+```
 
+## 🛠️ Tech Stack
 
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RejectModderss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RejectModderss&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+
+<div align="center">
+  <b>🎉 Let's connect and build something amazing together! 🚀</b>
+  <br>
+  <a href="https://disutils.com">🌐 Check out Disutils</a>
+</div>
