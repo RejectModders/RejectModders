@@ -25,16 +25,16 @@
 
 ## 👨🏻‍💻 About Me
 
-```javascript
-const reject = {
-    role: "Discord Developer & Owner of Disutils",
-    passions: ["Discord Bots", "Web Development"],
-    learning: ["C#", "C++"],
-    projects: {
-        main: "https://disutils.com",
-        looking_for: "Beta Testers & Community Members!"
+```python
+reject = {
+    "role": "Discord Developer & Owner of Disutils",
+    "passions": ["Discord Bots", "Web Development"],
+    "learning": ["C#", "C++"],
+    "projects": {
+        "main": "https://disutils.com",
+        "looking_for": "Beta Testers & Community Members!"
     }
-};
+}
 ```
 
 ## 🛠️ Tech Stack
