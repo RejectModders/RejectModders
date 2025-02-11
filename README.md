@@ -55,7 +55,9 @@ class Developer:
                 f"Passions: {', '.join(self.passions)}\n"
                 f"Learning: {', '.join(self.learning)}\n"
                 f"Projects: {self.projects}\n"
-                f"Fun Fact: {self.fun_fact}")
+                f"Fun Fact: {self.fun_fact}\n"
+                f"Current Focus: {', '.join(self.current_focus())}\n"
+                f"Daily Routine: {', '.join(self.daily_routine())}")
 
 reject = Developer()
 print(reject)
