@@ -10,7 +10,7 @@
   [![Discord](https://img.shields.io/badge/Join_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/28RuT8WsKT)
   [![Bots](https://img.shields.io/badge/Our_Bots-1daa7e?style=for-the-badge&logo=robotframework&logoColor=white)](https://disutils.com/bots)
   
-  <img src="https://komarev.com/ghpvc/?username=RejectModders&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RejectModderss&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 <div align="right">
