@@ -1,6 +1,4 @@
 <h1 align="center">
-  <img src="https://cdn.is-it.pink/u/rejectmodders.gif" width="110" height="110" style="border-radius: 50%"/>
-  <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=41&pause=1000&color=5865f2&width=450&height=70&lines=Hey!+I'm+Reject!;Welcome+To+My+GitHub;Join+.gg/28RuT8WsKT" alt="Typing SVG"/>
 </h1>
 
