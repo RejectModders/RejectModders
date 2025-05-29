@@ -44,27 +44,34 @@
 ## 🧑‍💻 About Me
 
 ```python
+from typing import override
+
+
 class Developer:
     def __init__(self) -> None:
-        self.name = "RejectModders"
-        self.role = "Discord Dev & Disutils Owner"
-        self.location = "Missouri"
-        self.passions = ["Building Discord Bots", "Gaming", "Friends"]
-        self.learning = ["C#", "C++"]
-        self.projects = {
+        self.name: str = "RejectModders"
+        self.role: str = "Discord Dev & Disutils Owner"
+        self.location: str = "Missouri"
+        self.passions: list[str] = [
+            "Building Discord Bots",
+            "Gaming",
+            "Friends",
+        ]
+        self.learning: list[str] = ["C#", "C++"]
+        self.projects: dict[str, str | dict[str, str]] = {
             "main": "https://disutils.com",
             "description": "A dedicated group of individuals committed to enhancing and simplifying the Discord experience for all users.",
             "looking_for": "Beta Testers & Community Members!",
         }
-        self.fun_fact = "I spend way too much time watching cop videos 🚓"
+        self.fun_fact: str = "I spend way too much time watching cop videos 🚓"
 
-    def technologies_and_skills(self) -> dict:
+    def technologies_and_skills(self) -> dict[str, list[str]]:
         return {
             "frontend": ["HTML", "CSS", "JavaScript"],
             "backend": ["Python", "Node.js", "FastAPI", "Express.js"],
             "databases": ["PostgreSQL", "SQLite", "MongoDB", "MySQL"],
             "tools": ["Docker", "Git", "PyCharm", "WebStorm"],
-            "interests": ["Bot Development", "API Design", "Coding"]
+            "interests": ["Bot Development", "API Design", "Coding"],
         }
 
     def current_focus(self) -> list[str]:
@@ -77,6 +84,7 @@ class Developer:
     def daily_routine(self) -> list[str]:
         return ["Code", "Coffee", "Community", "Repeat"]
 
+    @override
     def __str__(self) -> str:
         return (
             f"Name: {self.name}\n"
