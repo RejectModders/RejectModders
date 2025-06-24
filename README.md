@@ -79,7 +79,7 @@ Developing high-quality Discord bots and libraries that solve real problems for 
       </td>
       <td>
         <ul>
-          <li>🚀 Bots serving 600+ Discord communities</li>
+          <li>🚀 Bots serving 1,300+ Discord communities</li>
           <li>🤖 Featured on Top.gg front page</li>
           <li>📈 Growing community of developers and users</li>
           <li>🎓 Helping new developers enter the ecosystem</li>
