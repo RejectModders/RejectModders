@@ -98,8 +98,8 @@ Developing high-quality Discord bots and libraries that solve real problems for 
 ## 💻 Developer Profile
 
 ```python
-from typing import override
 from datetime import datetime
+from typing import override
 
 
 class Developer:
