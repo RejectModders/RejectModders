@@ -1,9 +1,8 @@
-<!-- filepath: f:\python-projects\Disutils-Team\PrivateEyes-NSFW\personal-readme.md -->
 <div align="center">
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=5865f2&height=200&section=header&text=RejectModders&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Discord%20Bot%20Developer%20|%20Founder%20of%20Disutils%20Team&descAlignY=60&descAlign=50)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=5865f2&height=200&section=header&text=RejectModders&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Discord%20Bot%20Developer%20|%20Full%20Stack%20Developer%20|%20Founder%20of%20Disutils%20Team&descAlignY=60&descAlign=50)
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&color=5865f2&center=true&vCenter=true&random=false&width=500&height=60&lines=Python+Developer;Discord+Bot+Specialist;Community+Builder;API+Designer;Disutils+Founder" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&color=5865f2&center=true&vCenter=true&random=false&width=500&height=60&lines=Python+Developer;Discord+Bot+Specialist;Full+Stack+Developer;Community+Builder;API+Designer;Disutils+Founder" alt="Typing SVG"/>
   
   [![Discord Banner](https://discord.c99.nl/widget/theme-2/418941954252996609.png)](https://discord.gg/28RuT8WsKT)
   <br>
@@ -24,7 +23,7 @@
 
 > *"A dedicated group of individuals committed to enhancing and simplifying the Discord experience for all users."*
 
-I'm a passionate Discord bot developer from Missouri with a focus on creating tools that enhance community experiences. As the founder of Disutils, I'm dedicated to simplifying Discord development and building powerful, user-friendly applications.
+I'm a passionate Full Stack Developer from Missouri with a focus on creating tools that enhance community experiences. As the founder of Disutils, I'm dedicated to simplifying Discord development and building powerful, user-friendly applications.
 
 <div align="center">
   <table>
@@ -105,10 +104,11 @@ from typing import override
 class Developer:
     def __init__(self) -> None:
         self.name: str = "RejectModders"
-        self.role: str = "Discord Developer & Disutils Founder"
+        self.role: str = "Full Stack & Discord Developer | Disutils Founder"
         self.location: str = "Missouri, USA"
         self.passions: list[str] = [
             "Building Discord Bots",
+            "Full Stack Development",
             "Community Management",
             "API Development",
             "Gaming",
@@ -130,12 +130,13 @@ class Developer:
             "databases": ["PostgreSQL", "SQLite", "MongoDB", "Redis"],
             "devops": ["Docker", "CI/CD", "AWS (basics)", "Networking"],
             "tools": ["Git", "PyCharm", "WebStorm", "VS Code", "GitHub"],
-            "interests": ["Bot Development", "API Design", "UX", "Automation"],
+            "interests": ["Full Stack Development", "Bot Development", "API Design", "UX", "Automation"],
         }
 
     def current_focus(self) -> list[str]:
         return [
             "Scaling Disutils Ecosystem",
+            "Full Stack Web Applications",
             "Building Developer Communities",
             "Advanced Discord Bot Features",
             "Performance Optimization",
