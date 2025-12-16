@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=5865f2&height=200&section=header&text=RejectModders&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Discord%20Bot%20Developer%20|%20Full%20Stack%20Developer%20|%20Founder%20of%20Disutils%20Team&descAlignY=60&descAlign=50)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=5865f2&height=200&section=header&text=RejectModders&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20%7C%20Programming%20%7C%20System%20Ops&descAlignY=60&descAlign=50)
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&color=5865f2&center=true&vCenter=true&random=false&width=500&height=60&lines=Python+Developer;Discord+Bot+Specialist;Full+Stack+Developer;Community+Builder;API+Designer;Disutils+Founder" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&color=5865f2&center=true&vCenter=true&random=false&width=500&height=60&lines=Cyber+Security+Focused;Programmer;System+Operations;Always+Learning" alt="Typing SVG"/>
   
   [![Discord Banner](https://discord.c99.nl/widget/theme-2/418941954252996609.png)](https://discord.gg/28RuT8WsKT)
   <br>
@@ -18,19 +18,22 @@
   <a href="https://twitter.com/disutils"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </div>
 
-<!-- Introduction Section with 3D animation effect -->
+---
+
+<details>
+<summary><h2>✅ Current</h2></summary>
+
 ## 👋 Welcome to my Digital Universe 
 
-> *"A dedicated group of individuals committed to enhancing and simplifying the Discord experience for all users."*
-
-I'm a passionate Full Stack Developer from Missouri with a focus on creating tools that enhance community experiences. As the founder of Disutils, I'm dedicated to simplifying Discord development and building powerful, user-friendly applications.
+Cyber security–oriented dev from Missouri focused on networking, systems, and writing code that actually supports both.  
+These days the priority is security, programming, and system operations; Discord bot work is part of the past but still in the toolbox.
 
 <div align="center">
   <table>
     <tr>
       <td>
         <a href="https://discord.com/users/418941954252996609" target="_blank">
-          <img width="100%" src="https://lanyard.cnrad.dev/api/418941954252996609?bg=1f1f1f&borderRadius=5px&idleMessage=Probably%20coding%20something%20awesome..." alt="Discord Status">
+          <img width="100%" src="https://lanyard.cnrad.dev/api/418941954252996609?bg=1f1f1f&borderRadius=5px&idleMessage=Probably%20breaking%20or%20fixing%20something..." alt="Discord Status">
         </a>
       </td>
       <td>
@@ -43,56 +46,31 @@ I'm a passionate Full Stack Developer from Missouri with a focus on creating too
 </div>
 
 <details>
-<summary><h2>🚀 Vision & Mission</h2></summary>
-<div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Quote">
-</div>
+<summary><h3>🔐 Cyber Security</h3></summary>
 
-### 🌟 My Vision
-To revolutionize how communities interact on Discord by creating intuitive, powerful tools that enhance connection and engagement.
+- Focused on the networking side: traffic, routing, segmentation, and basic hardening.  
+- Comfortable with logs, basic SIEM-style workflows, and monitoring/alerting to spot issues early.  
+- Use Linux as the main platform for labs, services, and security tooling.
 
-### 🎯 My Mission
-Developing high-quality Discord bots and libraries that solve real problems for server owners and community managers while maintaining excellent user experience.
-
-### 💡 Core Values
-- **Innovation**: Constantly exploring new ideas and approaches
-- **Quality**: Ensuring reliable, well-tested code
-- **Community**: Building tools with real users in mind
-- **Transparency**: Open about development processes and decisions
 </details>
 
-## 🔭 Current Projects & Achievements
+<details>
+<summary><h3>💻 Programming</h3></summary>
 
-<div align="center">
-  <table>
-    <tr>
-      <th>🚀 Active Projects</th>
-      <th>🏆 Recent Milestones</th>
-    </tr>
-    <tr>
-      <td>
-        <ul>
-          <li><b><a href="https://github.com/disutils/disutils">Disutils Team</a></b> – A collective of developers making Discord better</li>
-          <li><b><a href="https://github.com/disutils/disckit">Disckit</a></b> – Advanced package for Discord.py development</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>🚀 Bots serving 1,300+ Discord communities</li>
-          <li>🤖 Featured on Top.gg front page</li>
-          <li>📈 Growing community of developers and users</li>
-          <li>🎓 Helping new developers enter the ecosystem</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+- Main languages: **Python**, **C**, **C++**, **C#**.  
+- Also familiar with **JavaScript**, **HTML**, **CSS**, and general web stack basics.  
+- Use Python for automation/tooling and C-family languages for lower-level or performance-sensitive work.
 
-<div align="center">
-  <a href="https://github.com/RejectModders">
-    <img src="https://github-profile-trophy.vercel.app/?username=RejectModders&theme=discord&column=4&margin-w=15&margin-h=15" alt="RejectModders's Trophies">
-  </a>
-</div>
+</details>
+
+<details>
+<summary><h3>🖥️ System Operations</h3></summary>
+
+- Daily driver: **Linux**, managing services, configs, and updates.  
+- Use **Docker**, basic CI/CD-style workflows, and scripting to keep things repeatable.  
+- Care about uptime, monitoring, and keeping infra understandable, not just “working”.
+
+</details>
 
 ## 💻 Developer Profile
 
@@ -104,20 +82,20 @@ from typing import override
 class Developer:
     def __init__(self) -> None:
         self.name: str = "RejectModders"
-        self.role: str = "Full Stack & Discord Developer | Disutils Founder"
+        self.role: str = "Cyber Security | Programmer | System Ops"
         self.location: str = "Missouri, USA"
         self.passions: list[str] = [
-            "Building Discord Bots",
-            "Full Stack Development",
-            "Community Management",
-            "API Development",
-            "Gaming",
+            "Network & infrastructure security",
+            "Linux & system operations",
+            "Automation & tooling in Python",
+            "Low-level work with C / C++ / C#",
+            "Breaking, fixing, and hardening systems",
         ]
-        self.learning: list[str] = ["C#", "C++", "System Architecture"]
+        self.learning: list[str] = ["Advanced networking", "System Architecture"]
         self.projects: dict[str, str | dict[str, str]] = {
-            "main": "https://disutils.com",
-            "description": "A dedicated ecosystem enhancing Discord experiences",
-            "looking_for": "Collaborators, Beta Testers & Community Members",
+            "main": "https://github.com/RejectModders",
+            "description": "Personal projects around security, networking, bots, and tooling",
+            "looking_for": "People who like labs, logs, and late-night debugging",
         }
         self.coding_since: int = 2020
         self.experience_years: int = datetime.now().year - self.coding_since
@@ -130,25 +108,24 @@ class Developer:
             "databases": ["PostgreSQL", "SQLite", "MongoDB", "Redis"],
             "devops": ["Docker", "CI/CD", "AWS (basics)", "Networking"],
             "tools": ["Git", "PyCharm", "WebStorm", "VS Code", "GitHub"],
-            "interests": ["Full Stack Development", "Bot Development", "API Design", "UX", "Automation"],
+            "interests": ["Security", "System Design", "Automation", "Tooling"],
         }
 
     def current_focus(self) -> list[str]:
         return [
-            "Scaling Disutils Ecosystem",
-            "Full Stack Web Applications",
-            "Building Developer Communities",
-            "Advanced Discord Bot Features",
-            "Performance Optimization",
+            "Building a strong cyber security career",
+            "Improving networking and Linux skills",
+            "Writing useful tools and automation",
+            "Hardening and monitoring services",
         ]
 
     def daily_routine(self) -> list[str]:
         return [
             "☕ Coffee",
-            "💻 Code",
-            "👥 Community Management",
-            "🔄 Iterate on Feedback",
-            "🌱 Learn Something New",
+            "💻 Code / labs",
+            "📡 Logs & monitoring",
+            "🔐 Break, fix, and harden",
+            "🌱 Learn something new",
         ]
 
     @override
@@ -210,26 +187,24 @@ print(reject)
 
 <div align="center">
 
-  <!-- Tech Stack Animation -->
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,express,fastapi,mongodb,postgres,docker,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,html,css,nodejs,express,fastapi,mongodb,postgres,docker,git" alt="Tech Stack" />
 
   <details>
   <summary><h3>📋 Detailed Tech Proficiency</h3></summary>
   
   ### Languages
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-  ![EJS](https://img.shields.io/badge/EJS-CC3E44?style=for-the-badge&logo=ejs&logoColor=white)
 
   ### Currently Learning
-  ![C](https://img.shields.io/badge/Learning_C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/Learning_C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![C#](https://img.shields.io/badge/Learning_C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/Learning_Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![LUA](https://img.shields.io/badge/Learning_LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+  ![Networking](https://img.shields.io/badge/Advanced_Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
+  ![System Architecture](https://img.shields.io/badge/System_Architecture-555555?style=for-the-badge&logo=archlinux&logoColor=white)
 
   ### Frameworks & Libraries
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -256,11 +231,76 @@ print(reject)
   </details>
 </div>
 
+</details>
+
+---
+
+<details>
+<summary><h2>🕰️ Past</h2></summary>
+
+<details>
+<summary><h3>🚀 Vision & Mission (Old Discord Focus)</h3></summary>
+
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Quote">
+</div>
+
+### 🌟 Old Vision
+To revolutionize how communities interact on Discord by creating intuitive, powerful tools that enhance connection and engagement.
+
+### 🎯 Old Mission
+Developing high-quality Discord bots and libraries that solve real problems for server owners and community managers while maintaining excellent user experience.
+
+### 💡 Core Values (Still True)
+- **Innovation**: Constantly exploring new ideas and approaches  
+- **Quality**: Ensuring reliable, well-tested code  
+- **Community**: Building tools with real users in mind  
+- **Transparency**: Open about development processes and decisions  
+
+</details>
+
+<details>
+<summary><h3>🔭 Old Projects & Achievements</h3></summary>
+
+<div align="center">
+  <table>
+    <tr>
+      <th>🚀 Active Projects (Then)</th>
+      <th>🏆 Milestones</th>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li><b><a href="https://github.com/disutils/disutils">Disutils Team</a></b> – A collective of developers making Discord better</li>
+          <li><b><a href="https://github.com/disutils/disckit">Disckit</a></b> – Advanced package for Discord.py development</li>
+          <li><b><a href="https://ignitedhosting.com">Ignited Hosting</a></b> - An awesome hosting company</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>🚀 Bots serving 2,000+ Discord communities</li>
+          <li>🤖 Featured on Top.gg front page</li>
+          <li>📈 Growing community of developers and users</li>
+          <li>🎓 Helping new developers enter the ecosystem</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+</details>
+
+</details>
+
+---
+
+<details>
+<summary><h2>🎧 Other</h2></summary>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
   
-  <!-- GitHub Streak -->
   [![GitHub Streak](https://streak-stats.demolab.com?user=RejectModders&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
   
   <table>
@@ -274,10 +314,8 @@ print(reject)
     </tr>
   </table>
   
-  <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RejectModders&bg_color=1a1b27&color=58a6ff&line=5865F2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph">
   
-  <!-- GitHub Contribution Snake Animation (Dark Theme Only) -->
   <img src="https://raw.githubusercontent.com/RejectModders/RejectModders/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
@@ -293,33 +331,12 @@ print(reject)
   </p>
 </div>
 
-## 📬 Connect With Me
-
-<div align="center">
-  <a href="mailto:rejectmodders@disutils.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://discord.gg/28RuT8WsKT">
-    <img src="https://img.shields.io/badge/Discord_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
-  </a>
-  <a href="https://twitter.com/disutils">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</div>
-
-## 🤝 Support My Work
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/disutilsteam" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-</div>
+</details>
 
 ---
 
 <div align="center">
-  <h3>Let's build the future of Discord communities together! 🚀</h3>
-  <a href="https://disutils.com">🌐 Check out Disutils</a>
+  <h3>Security, systems, and code going forward. 🚀</h3>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5865f2&height=100&section=footer" width="100%"/>
   
