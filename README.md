@@ -1,6 +1,3 @@
-[![Secured by VulnRadar](https://vulnradar.dev/api/badge/fecbcf4c605178f56ea75a379629f22619e0da12f5d91c1b624b252b1c1ada5b)](https://vulnradar.dev/shared/fecbcf4c605178f56ea75a379629f22619e0da12f5d91c1b624b252b1c1ada5b)
-
-
 <div align="center">
   
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=5865f2&height=200&section=header&text=RejectModders&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20%7C%20Programming%20%7C%20System%20Ops&descAlignY=60&descAlign=50)
