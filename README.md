@@ -37,7 +37,7 @@ Started coding in 2020. I use Linux daily, live in the terminal, and care about 
       </td>
       <td>
         <a href="https://wakatime.com/@RejectModders" target="_blank">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RejectModders&border_radius=5px&theme=tokyonight&bg_color=1f1f1f&border_color=5865f2&icon_color=58a6ff&show_icons=true&layout=compact&custom_title=Coding%20Stats%20%E2%9A%A1" alt="Coding Stats">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RejectModders&border_radius=5px&theme=tokyonight&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=false&custom_title=Weekly%20Coding%20Activity%20⚡" alt="Weekly Stats">
         </a>
       </td>
     </tr>
