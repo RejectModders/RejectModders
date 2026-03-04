@@ -181,17 +181,6 @@ reject = Developer()
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RejectModders&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RejectModders&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RejectModders&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-    </td>
-  </tr>
-</table>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RejectModders&bg_color=1a1b27&color=58a6ff&line=5865F2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph">
 
 <img src="https://raw.githubusercontent.com/RejectModders/RejectModders/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
