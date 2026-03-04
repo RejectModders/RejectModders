@@ -19,7 +19,7 @@
 
 ## About Me
 
-Cybersecurity-focused dev from Missouri. I build things I actually care about. Right now that means security tools, systems work, and keeping things from breaking (or understanding why they do).
+Cybersecurity-focused dev from Missouri. I build things I actually care about. Right now that means security tools, systems work, and understanding why things break.
 
 Started coding in 2020. I use Linux daily, live in the terminal, and care about uptime, monitoring, and infra that actually makes sense.
 
@@ -37,7 +37,7 @@ Started coding in 2020. I use Linux daily, live in the terminal, and care about 
       </td>
       <td>
         <a href="https://wakatime.com/@RejectModders" target="_blank">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RejectModders&border_radius=5px&theme=tokyonight&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&custom_title=Weekly%20Coding%20Activity%20⚡" alt="Weekly Stats">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RejectModders&border_radius=5px&theme=tokyonight&bg_color=1f1f1f&border_color=5865f2&icon_color=58a6ff&show_icons=true&layout=compact&custom_title=Coding%20Stats%20%E2%9A%A1" alt="Coding Stats">
         </a>
       </td>
     </tr>
@@ -78,13 +78,13 @@ Scan complete. 12 findings across 4 severities.
 Report saved  vulnradar.dev/r/abc123
 ```
 
-175+ vulnerability checks covering SQLi, XSS, SSRF, open redirects, misconfigs and more. Every finding comes with a severity rating and an actual explanation of how to fix it. Fully open source, if you can't read the code, why would you trust it?
+175+ vulnerability checks covering SQLi, XSS, SSRF, open redirects, misconfigs and more. Every finding comes with a severity rating and an actual explanation of how to fix it. Fully open source. If you can't read the code, why would you trust it?
 
 <br/>
 
 ## Personal Site
 
-**[rejectmodders.is-a.dev](https://rejectmodders.is-a.dev)** - portfolio, live GitHub activity, projects, and contact. Built with Next.js, TypeScript, Tailwind and Framer Motion.
+**[rejectmodders.is-a.dev](https://rejectmodders.is-a.dev)** portfolio, live GitHub activity, projects, and contact. Built with Next.js, TypeScript, Tailwind and Framer Motion.
 
 <br/>
 
