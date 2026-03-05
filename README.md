@@ -7,7 +7,7 @@
 <br/>
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/28RuT8WsKT)
-[![Website](https://img.shields.io/badge/rejectmodders.is--a.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rejectmodders.is-a.dev)
+[![Website](https://img.shields.io/badge/rejectmodders.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rejectmodders.dev)
 [![VulnRadar](https://img.shields.io/badge/VulnRadar-e63946?style=for-the-badge&logo=shield&logoColor=white)](https://vulnradar.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RejectModders)
 
@@ -84,7 +84,7 @@ Report saved  vulnradar.dev/r/abc123
 
 ## Personal Site
 
-**[rejectmodders.is-a.dev](https://rejectmodders.is-a.dev)** portfolio, live GitHub activity, projects, and contact. Built with Next.js, TypeScript, Tailwind and Framer Motion.
+**[rejectmodders.dev](https://rejectmodders.dev)** portfolio, live GitHub activity, projects, and contact. Built with Next.js, TypeScript, Tailwind and Framer Motion.
 
 <br/>
 
@@ -150,7 +150,7 @@ class Developer:
         self.name         = "RejectModders"
         self.role         = "Cybersecurity Dev | Systems | Tooling"
         self.location     = "Missouri, USA"
-        self.site         = "https://rejectmodders.is-a.dev"
+        self.site         = "https://rejectmodders.dev"
         self.projects     = {
             "VulnRadar": "https://vulnradar.dev",
             "GitHub":    "https://github.com/RejectModders",
@@ -203,7 +203,7 @@ reject = Developer()
 
 <div align="center">
 
-**[rejectmodders.is-a.dev](https://rejectmodders.is-a.dev)** &nbsp;·&nbsp; **[vulnradar.dev](https://vulnradar.dev)** &nbsp;·&nbsp; **[GitHub](https://github.com/RejectModders)**
+**[rejectmodders.dev](https://rejectmodders.dev)** &nbsp;·&nbsp; **[vulnradar.dev](https://vulnradar.dev)** &nbsp;·&nbsp; **[GitHub](https://github.com/RejectModders)**
 
 <br/>
 
